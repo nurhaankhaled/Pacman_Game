@@ -1,0 +1,8 @@
+﻿  SP_Project.cpp
+C:\Users\NOUR\source\repos\SP_Project\SP_Project\SP_Project.cpp(17,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NOUR\source\repos\SP_Project\SP_Project\SP_Project.cpp(17,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NOUR\source\repos\SP_Project\SP_Project\SP_Project.cpp(19,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NOUR\source\repos\SP_Project\SP_Project\SP_Project.cpp(30,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\NOUR\source\repos\SP_Project\SP_Project\SP_Project.cpp(31,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\NOUR\source\repos\SP_Project\SP_Project\SP_Project.cpp(602,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SP_Project.vcxproj -> C:\Users\NOUR\source\repos\SP_Project\Debug\SP_Project.exe
