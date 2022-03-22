@@ -202,6 +202,7 @@ int main()
 	}
 	sf::Sound sounddot;
 	sounddot.setBuffer(bufferdot);
+	
 	//Sound creation for super dot:
 	sf::SoundBuffer buffersuperdot;
 	buffersuperdot.loadFromFile("pacman_powerup.wav");
@@ -224,13 +225,9 @@ int main()
 
 	//Animation time initialization:
 	sf::Clock clock;
-
 	sf::Clock ghostsclock;
 	sf::Clock timer;
-
 	sf::Clock ghostanimation;
-
-
 
 	while (window.isOpen())
 	{
